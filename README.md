@@ -1,5 +1,3 @@
-# Adani-enterprise-_dashboard.powerbi-
-**Developed an interactive Power BI dashboard to analyze the historical stock performance of Adani Enterprises Ltd., providing insights into price trends, trading volume, and key financial metrics through dynamic visualizations and filters.**
 📈 Adani Enterprises Stock Market Analytics Dashboard
 
 Transforming historical stock data into actionable business insights with Power BI.
