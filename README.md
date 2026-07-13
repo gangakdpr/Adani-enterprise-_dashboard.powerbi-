@@ -1,4 +1,4 @@
-📈 Adani Enterprises Stock Market Analytics Dashboard
+📈 Adani Enterprises Stock Market Analytics power bi Dashboard 
 
 Transforming historical stock data into actionable business insights with Power BI.
 
