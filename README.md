@@ -179,7 +179,7 @@ Feedback, suggestions, and contributions are always welcome!
 
 # 👨‍💻 Author
 
-**Your Name**
+**Ganga A S**
 
-* LinkedIn: *(Add your profile)*
-* GitHub: *(Add your GitHub profile)*
+* LinkedIn: *www.linkedin.com/in/ganga-a-s*
+* GitHub: *https://github.com/gangakdpr*
